@@ -78,7 +78,7 @@
 		<nav class="mx-auto flex h-14 max-w-2xl items-center justify-between rounded-full border bg-white/80 px-6 shadow-lg backdrop-blur-sm">
 			<!-- Logo -->
 			<a href="/" class="flex items-center gap-0 text-xl font-semibold text-sky-600	">
-				<img src="/favicon.png" alt="Logo" class="h-8 w-8 mr-2" />
+				<img src="/logo.png" alt="Logo" class="h-8 w-8 mr-2" />
 				<span class="inline italic font-bold">effortless</span>
 				<span class="inline font-bold">.cv</span>
 			</a>
